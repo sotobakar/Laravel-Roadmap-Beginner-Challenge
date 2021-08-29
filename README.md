@@ -1,9 +1,12 @@
-# Laravel Roadmap: Beginner Level Challenge
+# Task Complete
 
-This is a task for the [Beginner Level of the Laravel Roadmap](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path#beginner-level), with the goal to implement as many of its topics as possible.
-
-This repository is intentionally empty, with only a Readme file. Your task if to submit a Pull Request with your version of implementing the task, and your PR may be reviewed by someone on our team, or other volunteers.
-
+Project Look *all dummy data :
+![Homepage](public/images/ui_homepage.png "Homepage UI")
+![Article](public/images/ui_article.png "Article UI")
+![Admin Articles](public/images/ui_admin_articles.png "Admin Articles")
+![Admin Create Article](public/images/ui_admin_create_article.png "Admin Create Article")
+![Admin Create Tag](public/images/ui_admin_create_tag.png "Admin Create Tag")
+![Admin Edit Tag](public/images/ui_admin_edit_tag.png "Admin Edit Tag")
 ## The Task: Simple Personal Blog
 
 You need to create a personal blog with just three pages:
